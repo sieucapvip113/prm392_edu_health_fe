@@ -1,0 +1,32 @@
+[33mcommit 72710ac0e24b7b7b851d2380fb71439c0b83a333[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: KhoaDang21 <khoadang210903@gmail.com>
+Date:   Fri May 23 12:15:49 2025 +0700
+
+    Revert "Merge pull request #4 from KhoaDang21/homePage-footer-validate"
+    
+    This reverts commit 453b5c31f89203a1faf1881678fb210f41a898a3, reversing
+    changes made to 1aa3492073d0acc87ef700031b1da70ca3a29be7.
+
+[33mcommit 453b5c31f89203a1faf1881678fb210f41a898a3[m
+Merge: 1aa3492 274098d
+Author: KhoaDang21 <148994101+KhoaDang21@users.noreply.github.com>
+Date:   Fri May 23 12:10:11 2025 +0700
+
+    Merge pull request #4 from KhoaDang21/homePage-footer-validate
+    
+    Home page footer validate
+
+[33mcommit e0b3a6f4656551bee8694cdd3c23a74522ae59ae[m
+Merge: 613ff6b 8f89557
+Author: MinhQuan.dev <quankontum55555@gmail.com>
+Date:   Tue May 20 23:35:01 2025 +0700
+
+    Merge pull request #2 from KhoaDang21/Quan
+    
+    Login UI and HomePage UI
+
+[33mcommit 8f8955732f6bfa5e80806467bf3520923bded025[m
+Author: MinhQuandevfpt <quankontum55555@gmail.com>
+Date:   Tue May 20 23:33:06 2025 +0700
+
+    Login UI and HomePage UI
